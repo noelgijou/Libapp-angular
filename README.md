@@ -1,3 +1,1 @@
-# LibApp-Angular
-
-Completed
+Library app using angular
