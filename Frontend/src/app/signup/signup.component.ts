@@ -20,7 +20,7 @@ export class SignupComponent implements OnInit {
   userSignUp(){
     console.log('In user signup')
     this.authService.signUpRequest(this.userData)
-    alert("sexess")
+    alert("Signup Success")
     this.router.navigate(['login']);
   }
 
