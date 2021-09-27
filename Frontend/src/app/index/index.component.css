@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
 h1 {
     display: flex;
     justify-content: center;
     align-items: center;
     width: auto;
     height: auto;
+    font-family: 'Comfortaa';
 }
 .flex {
     position: absolute;
@@ -12,4 +14,4 @@ h1 {
     transform: translate(-50%, -50%);
     text-align: center;
 }
-/* .bod {  background-image: url(/Frontend/src/app/index/book3.jpg); }  */
+.ind {  background-image: url(https://www.detroitlabs.com/wp-content/uploads/2018/02/alfons-morales-YLSwjSy7stw-unsplash.jpg); } 
